@@ -6,7 +6,7 @@ https://www.techiesindia.site
 
   <a href="https://www.instagram.com/datechies" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
 
-  <a href="https://www.youtube.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Youtube-Da%20Techies%20?style=for-the-badge&logo=appveyor-red"></a>
+  <a href="https://www.youtube.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Youtube-Da%20Techies%20-red?style=for-the-badge&logo=appveyor"></a>
 
 </p>
 
