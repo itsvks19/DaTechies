@@ -4,7 +4,7 @@ who has deep knowledge on tech related things and provides real & trusted knowle
 contents, tools, etc in every possible means. And helping the world to grow the field of technology.
 People from anywhere can join us and contribute in the field of technology.
 
-# DA TECHIES WEBSITE 
+# WEBSITE 
 <p align=left">
   <a href="https://www.techiesindia.site" target="_blank"><img src="https://img.shields.io/badge/Website%20-techiesindia.site-blue?style=for-the-badge&logo=website"></a>
 </p>
