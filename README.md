@@ -6,7 +6,7 @@ https://www.techiesindia.site
 
   <a href="https://github.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Github-Da--Techies-green?style=for-the-badge&logo=github"></a>
 
-  <a href="https://www.instagram.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Instagram-@datechies?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Instagram%20-%40datechies-orange?style=for-the-badge&logo=instagram"></a>
 
 
 </p>
