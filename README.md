@@ -15,7 +15,10 @@ People from anywhere can join us and contribute in the field of technology.
   
   <a href="https://www.instagram.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Instagram%20-%40datechies-orange?style=for-the-badge&logo=instagram"></a>
 
-  <a href="https://github.com/datechies" target="_blank"><img src="https://img.shields.io/badge/GitHub-Da%20Techies%20-lightgrey?style=for-the-badge&logo=github"></a>
+  <a href="https://facebook.com/pagedatechies" target="_blank"><img src="https://img.shields.io/badge/Facebook-@pagedatechies%20-lightblue?style=for-the-badge&logo=facebook"></a>
+
+  <a href="https://github.com/datechies" target="_blank"><img src="https://img.shields.io/badge/GitHub-DaTechies%20-lightgrey?style=for-the-badge&logo=github"></a>
+
 </p>
 
 
