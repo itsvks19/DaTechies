@@ -19,6 +19,8 @@ People from anywhere can join us and contribute in the field of technology.
 
   <a href="https://github.com/datechies" target="_blank"><img src="https://img.shields.io/badge/GitHub-DaTechies%20-lightgrey?style=for-the-badge&logo=github"></a>
 
+  <a href="https://twitter.com/datechiestweet" target="_blank"><img src="https://img.shields.io/badge/Twitter-@datechiestweet%20-blue?style=for-the-badge&logo=twitter"></a>
+
 </p>
 
 
