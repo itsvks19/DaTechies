@@ -21,10 +21,6 @@ People from anywhere can join us and contribute in the field of technology.
 
   <a href="https://twitter.com/datechiestweet" target="_blank"><img src="https://img.shields.io/badge/Twitter-@datechiestweet%20-blue?style=for-the-badge&logo=twitter"></a>
 
-# YOUTUBE
-  <a href="https://youtube.com/datechies">
-  <img src="https://gcdnb.pbrd.co/images/hL4H0Ka6n9O7.jpg?o=1">
-</a>
 </p>
 
 
