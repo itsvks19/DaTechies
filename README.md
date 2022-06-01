@@ -1,8 +1,4 @@
 # DA TECHIES
-Da Techies is an organisation, unit or a group of techie peoples
-who has deep knowledge on tech related things and provides real & trusted knowledgeable
-contents, tools, etc in every possible means. And helping the world to grow the field of technology.
-People from anywhere can join us and contribute in the field of technology.
 
 # WEBSITE 
 <p align=left">
