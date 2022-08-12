@@ -2,13 +2,10 @@
 
 # DA TECHIES
 
-# WEBSITE 
-<p align=left">
-  <a href="https://datechies.in" target="_blank"><img src="https://img.shields.io/badge/Website%20-datechies.in-blue?style=for-the-badge&logo=website"></a>
-</p>
-
 # SOCIAL LINKS
 <p align="left">
+  <a href="https://datechies.in" target="_blank"><img src="https://img.shields.io/badge/Website%20-datechies.in-blue?style=for-the-badge&logo=website"></a>
+
   <a href="https://www.youtube.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Youtube-Da%20Techies%20-red?style=for-the-badge&logo=youtube"></a>
   
   <a href="https://www.instagram.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Instagram%20-%40datechies-orange?style=for-the-badge&logo=instagram"></a>
