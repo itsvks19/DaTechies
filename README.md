@@ -2,7 +2,7 @@
 
 # DA TECHIES
 A Tech Organization of tech influenced people. <br>
-This is the Official Github Repository.
+Official Github Repository.
 
 # SOCIAL LINKS
 <p align="left">
