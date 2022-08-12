@@ -10,8 +10,6 @@
   
   <a href="https://www.instagram.com/datechies" target="_blank"><img src="https://img.shields.io/badge/Instagram%20-%40datechies-orange?style=for-the-badge&logo=instagram"></a>
 
-  <a href="https://facebook.com/pagedatechies" target="_blank"><img src="https://img.shields.io/badge/Facebook-@pagedatechies%20-lightblue?style=for-the-badge&logo=facebook"></a>
-
   <a href="https://github.com/datechies" target="_blank"><img src="https://img.shields.io/badge/GitHub-DaTechies%20-lightgrey?style=for-the-badge&logo=github"></a>
 
   <a href="https://twitter.com/datechiestweet" target="_blank"><img src="https://img.shields.io/badge/Twitter-@datechiestweet%20-blue?style=for-the-badge&logo=twitter"></a>
