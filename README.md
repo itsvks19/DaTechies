@@ -4,7 +4,7 @@
 
 # WEBSITE 
 <p align=left">
-  <a href="https://www.techiesindia.site" target="_blank"><img src="https://img.shields.io/badge/Website%20-techiesindia.site-blue?style=for-the-badge&logo=website"></a>
+  <a href="https://datechies.in" target="_blank"><img src="https://img.shields.io/badge/Website%20-techiesindia.site-blue?style=for-the-badge&logo=website"></a>
 </p>
 
 # SOCIAL LINKS
