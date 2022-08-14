@@ -3,7 +3,7 @@
 # DA TECHIES
 Contributing, creating, sharing, inventing, influencing in the field of science and technology. A Tech organisation of tech influenced people. Official Github Repository
 
-# SOCIAL LINKS
+# LINKS
 <p align="left">
   <a href="https://datechies.in" target="_blank"><img src="https://img.shields.io/badge/Website%20-datechies.in-blue?style=for-the-badge&logo=website"></a>
 
