@@ -1,7 +1,8 @@
 ![Picsart_22-08-12_19-57-37-545-modified](https://user-images.githubusercontent.com/102758905/184380213-93fc2a05-dcc4-44d0-adaa-8432e9ff9bc8.png)
 
-![](https://komarev.com/ghpvc/?username=datechies&color=ff69b4&style=flat-square)
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=datechies&color=ff69b4&style=flat-square" />
+</p>
 # DA TECHIES
 Contributing, creating, sharing, inventing, influencing in the field of science and technology. A Tech organisation of tech influenced people. This is the Official Github Repository
 <br> <br>
