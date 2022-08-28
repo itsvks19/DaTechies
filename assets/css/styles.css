@@ -165,6 +165,7 @@ img {
 
 .nav__logo {
   color: var(--second-color);
+  --fa-animation-duration: 5s;
 }
 
 .nav__toggle {
