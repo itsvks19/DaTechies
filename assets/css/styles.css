@@ -293,7 +293,7 @@ img {
   color: #ffffff;
   text-align: center;
   font-weight: var(--font-semi);
-  padding: 0 0;
+  padding: 2rem 0;
   /* width: 100%;
   height: 100%; */
 }
