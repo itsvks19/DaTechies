@@ -429,6 +429,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    top: 4rem;
   }
   .home {
     padding: 10rem 0 2rem;
