@@ -198,6 +198,8 @@ img {
 
 .home__data {
   align-self: center;
+  text-align: center;
+  align-items: center;
 }
 
 .home__title {
@@ -244,11 +246,12 @@ img {
 .button {
   display: inline-block;
   background-color: var(--first-color);
-  color: #fff;
+  color: #ffffff;
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
+  /* margin: 10px; */
 }
 
 .button:hover {
@@ -262,6 +265,7 @@ img {
 
 .about__container {
   row-gap: 2rem;
+  width: 100%;
   text-align: center;
 }
 
@@ -367,6 +371,7 @@ img {
   .section {
     padding-top: 4rem;
     padding-bottom: 3rem;
+    align-items: center;
   }
   .section-title {
     margin-bottom: var(--mb-6);
