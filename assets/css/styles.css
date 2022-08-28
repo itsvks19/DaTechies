@@ -251,7 +251,7 @@ img {
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
-  --fa-animation-duration: 15s;
+  --fa-animation-duration: 5s;
   /* margin: 10px; */
 }
 
